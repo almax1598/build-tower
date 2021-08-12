@@ -20,7 +20,7 @@ rewarded with 50 points instead. Consecutive Perfects awards additional 25 point
 ## Customizing the game rule
 
 ```
-git clone https://github.com/almax/build-tower
+git clone https://github.com/almax1598/build-tower
 cd build-tower
 npm install
 npm start
